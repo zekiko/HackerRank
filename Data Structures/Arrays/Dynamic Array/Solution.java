@@ -44,11 +44,8 @@ class Result {
                 answers.add(lastAnswer);
             }
         }
-        
-        
-        
+    
         return answers;
-
     }
 
 }
